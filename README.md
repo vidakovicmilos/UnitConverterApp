@@ -16,3 +16,8 @@
 - **Jetpack Compose**
 - **Material Design 3**
 - **Kotlin Standard Library**
+
+## ✅ Author
+
+**Miloš Vidaković**  
+GitHub: [vidakovicmilos](https://github.com/vidakovicmilos)
